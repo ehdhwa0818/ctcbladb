@@ -1,0 +1,7 @@
+{
+    "com.disney.disneyplus": "2.22.2-rc1",
+    "net.cj.em.tving": "5.0.4",
+    "com.frograms.wplay": "1.14.26",
+    "com.vollehtv.contentcube": "2.0.8-ga",
+    "com.contentcube.updater": "1.0.0"
+} 
