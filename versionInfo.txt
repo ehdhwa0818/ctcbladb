@@ -2,7 +2,7 @@
     "com.disney.disneyplus": "2.25.2-rc3",
     "net.cj.em.tving": "5.0.4",
     "com.frograms.wplay": "1.14.38",
-    "com.vollehtv.contentcube": "2.1.5",
+    "com.vollehtv.contentcube": "2.1.6",
     "com.apple.atve.androidtv.appletv": "14.0.1",
     "com.contentcube.updater": "1.0.0"
 } 
